@@ -1,7 +1,4 @@
-## End to End Machine learning Project Tutorial 
-
-
-In this Tutorial We will try to build a ML Project with deployment-Github (Step By Step)
+**Agenda**
 
 I. Step-1 : Setup Github {Repository} #Repository is a centralized place where data is stored and managed in an organized way
     a. New Environement
@@ -18,13 +15,9 @@ I. Step-1 : Setup Github {Repository} #Repository is a centralized place where d
             5-1. Foloow the Steps From github page 
         6. Create .gitignore in github and commite it     
     b. setup.py
-        1. To understand what is the Importance Of setup.py (check : https://stackoverflow.com/questions/1471994/what-is-setup-py)
-        2. step 1 : Creat a new file ['setup.py']
-        3. step 2 : Creat a new file ['requirement.txt']
-        4. step 3 : check the code in ['setup.py']
 
 
 
     
     c. requirement.txt
-
+    
